@@ -53,7 +53,8 @@ If you are a speaker or want to add some material, don't hesitate to send me a p
 
 
 ## Hackaton
-* If you have your code on github, maybe it would be interesting for anyone :)
+If you have your code on github, maybe it would be interesting for anyone :)
+
 * **1st** - p2p pull the rope | [Controller iPad](https://github.com/dlbuckley/RopeGameController) | [Client iPhone](https://github.com/johndoran/TOWClient) maybe someday they will be one :)
 
 
