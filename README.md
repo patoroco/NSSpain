@@ -27,7 +27,7 @@ If you are a speaker or want to add some material, don't hesitate to send me a p
 * Delisa Mason - AppKit for iOS Developers.
 * **Alfonso Alba García** - Git and XCode: common problems, pitfalls, solutions and work arounds | [Slides](http://www.slideshare.net/aprendegit/nsspain2013).
 * Orta Therox and Fabio Pelosin - From Submodules to Private Cocoapods - How to move your infrastructure to private pods for smarter dependency management.
-* Boris Bügling - Objective-C funtime - know your runtime.
+* **Boris Bügling** (@NeoNacho) - Objective-C funtime - know your runtime. | [Slides / Code](http://vu0.org/funtime/)
 * Diego Freniche - Core Data Intermediate (Workshop).
 * Fernando Rodriguez - TDD (Workshop).
 
@@ -56,5 +56,5 @@ If you are a speaker or want to add some material, don't hesitate to send me a p
 If you have your code on github, maybe it would be interesting for anyone :)
 
 * **1st** - p2p pull the rope | [Controller iPad](https://github.com/dlbuckley/RopeGameController) | [Client iPhone](https://github.com/johndoran/TOWClient) maybe someday they will be one :)
-
+* **2nd** - Yet another CocoaPods Xcode plug-in | [Source](https://github.com/neonichu/CocoaPodsPlugIn) - Yes, it's horrible.
 
